@@ -1,0 +1,7 @@
+AAA is: 123
+total 40
+-rw-r--r--   1 houjiangtao  staff    12B Mar  8 15:53 output.txt
+drwxr-xr-x  13 houjiangtao  staff   416B Mar  8 15:53 ..
+-rw-r--r--   1 houjiangtao  staff    47B Mar  8 15:49 run.sh
+drwxr-xr-x   5 houjiangtao  staff   160B Mar  8 15:49 .
+-rw-r--r--   1 houjiangtao  staff    11K Mar  8 15:49 .hidden.txt
